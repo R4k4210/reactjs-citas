@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Descripción del proyecto
+
+Pequeño proyecto creado para practicar Reactjs.
+Se utiliza LocalStorage para la persistencia de la información ante la recarga del navegador
+y PropTypes para validar tipos de datos. También se utiliza uuid para la generación de ID's.
+
 ## Available Scripts
 
 In the project directory, you can run:
